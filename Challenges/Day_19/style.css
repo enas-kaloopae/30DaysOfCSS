@@ -7,32 +7,32 @@ body {
 }
 
 h1 {
-  color:#101E53;
+  color:#ffc64f;
   font-size: 70px;
 }
 
 @keyframes bgchange {
   0% {
-    background-color: #FBD6D7;
+    background-color: #c3e7f1;
   }
 
   20% {
-    background-color: #F2637C;
+    background-color: #519cab;
   }
 
   40% {
-    background-color: #F8B5B6;
+    background-color: #c3e7f1;
   }
 
   60% {
-    background-color: #D84D80;
+    background-color: #519cab;
   }
 
   80% {
-    background-color: #F490A0;
+    background-color: #c3e7f1;
   }
 
   100% {
-    background-color: #F9C1C2;
+    background-color: #519cab;
   }
 }
